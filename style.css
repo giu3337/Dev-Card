@@ -1,0 +1,91 @@
+
+
+body{
+    margin: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: black;
+}
+
+
+.card{
+
+   
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/99/621/220/wlop-artwork-women-digital-art-wallpaper-thumb.jpg);
+    /* background-image: url(https://c4.wallpaperflare.com/wallpaper/969/735/619/artwork-digital-art-fantasy-art-deer-wallpaper-thumb.jpg); */
+    /* background-image: url(https://c4.wallpaperflare.com/wallpaper/650/785/115/nebula-stars-space-green-wallpaper-thumb.jpg); */
+    /* background-image: url(https://c4.wallpaperflare.com/wallpaper/463/194/493/women-night-anime-girls-anime-wallpaper-thumb.jpg); */
+    /* background-color: black; */
+    background-size: cover;
+    padding: 20px;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto ;
+    text-align: center;
+    color: whitesmoke;
+    border-bottom: 8px solid #008000;
+    border-radius: 10px;
+    text-shadow: 1px 1px 1px black;
+    border: 3px solid white;
+    font-family: 'Courier New', Courier, monospace;
+
+   
+}
+
+/* .card:hover{
+    border: 3px solid #008000;
+} */
+
+.avatar{
+    height: 110px;
+    width: 110px;
+    border: 3px solid #00b4d8;
+    margin: 0px 50px 0px 0;
+    border-radius: 50%;
+
+}
+
+h3{
+    margin: 19px 0 0px 0;
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: #ffd166;
+    text-decoration: overline;
+}
+/* p{
+    
+} */
+
+
+
+
+h3:hover{
+    color: #ffd166;
+    text-decoration: overline;
+}
+
+p:hover{
+    color: #ffc300;
+    text-decoration: overline;
+}
+
+
+h4:hover{
+   color: #70e000;
+   text-decoration: overline;
+}
+
+
+
+
+.avatar:hover{
+   
+    border: 3px solid #008000;
+}
